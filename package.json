@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "google-play-scraper": "git+https://github.com/facundoolano/google-play-scraper#pull/560/head"
+   "google-play-scraper": "^9.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
